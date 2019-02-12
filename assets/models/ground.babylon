@@ -1,0 +1,24 @@
+{"producer":{"name":"Blender","version":"2.79 (sub 0)","exporter_version":"5.6.4","file":"ground.babylon"},
+"autoClear":true,"clearColor":[0.0509,0.0509,0.0509],"ambientColor":[0,0,0],"gravity":[0,-9.81,0],
+"materials":[{"name":"ground.Material","id":"ground.Material","ambient":[0.8,0.8,0.8],"diffuse":[0.64,0.64,0.64],"specular":[0.5,0.5,0.5],"emissive":[0,0,0],"specularPower":50,"alpha":1,"backFaceCulling":true,"checkReadyOnlyOnce":false,"maxSimultaneousLights":4}],
+"multiMaterials":[],
+"skeletons":[],
+"meshes":[{"name":"Cube","id":"Cube","materialId":"ground.Material","billboardMode":0,"position":[0,0,0],"rotation":[0,0,0],"scaling":[1,1,1],"isVisible":true,"freezeWorldMatrix":false,"isEnabled":true,"checkCollisions":false,"receiveShadows":false,"pickable":true,"tags":""
+,"positions":[1,-0.1,1,-1,0.1,1,1,0.1,1,0,-0.1,-1,-1,-0.1,0,0,-0.1,0,1,0.1,1,1,-0.1,-1,1,-0.1,1,1,0.1,-1,-1,-0.1,-1,1,-0.1,-1,-1,-0.1,-1,-1,0.1,1,-1,-0.1,1,-1,0.1,0,0,0.1,-1
+,0,0.1,0,1,0.1,-1,1,0.1,0,0,0.1,1,1,0.1,1,-1,0.1,1,0,-0.1,1,-1,-0.1,1,1,-0.1,0,1,-0.1,1,-1,-0.1,1,-1,-0.1,-1,1,0.1,-1,-1,0.1,-1,-1,0.1,-1,-1,0.1,-1,1,-0.1,-1
+]
+,"normals":[0,0,1,0,0,1,0,0,1,0,-1,0,0,-1,0,0,-1,0,1,0,0,1,0,0,1,0,0,0,0,-1,0,0,-1,0,0,-1,-1,0,0,-1,0,0,-1,0,0,0,1,0,0,1,0
+,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,-1,0,0,-1,0,0,-1,0,0,-1,0,0,0,1,0,-1,0,1,0,0,0,0,-1,-1,0,0,0,1,0,0,-1,0
+]
+,"uvs":[0.906,0.797,0.908,0,1,0.9,0,0.5,0.5,0,0.5,0.5,1,0.9,0.184,0.814,0.906,0.797,0.092,0.9,0.094,0.103,0.184,0.814,0.094,0.103,0.908,0,0.816,0.086,0,0.5,0.5,0,0.5,0.5,1,0,1,0.5,0.5,1,1,1,0,1,1,0.5,1,0
+,0.5,1,1,1,0.816,0.086,0,0,0.092,0.9,0,0,0,0,0,0,0,1]
+,"indices":[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,17,18,19,20,19,21,22,17,20,23,4,24,25,23,26,25,3,5,0,27,1,3,28,4,6,29,7,9,30,10,12,31
+,13,15,32,16,17,16,18,20,17,19,22,15,17,23,5,4,25,5,23,25,33,3]
+,"subMeshes":[{"materialIndex":0,"verticesStart":0,"verticesCount":34,"indexStart":0,"indexCount":72}]
+,"instances":[]}
+],
+"morphTargetManagers":[],
+"cameras":[{"name":"Camera","id":"Camera","position":[7.4811,5.3437,-6.5076],"rotation":[0.4615,-0.8149,0],"fov":0.8576,"minZ":0.1,"maxZ":100,"speed":1,"inertia":0.9,"checkCollisions":false,"applyGravity":false,"ellipsoid":[0.2,0.9,0.2],"cameraRigMode":0,"interaxial_distance":0.0637,"type":"UniversalCamera"}],"activeCamera":"Camera",
+"lights":[{"name":"Lamp","id":"Lamp","type":0,"position":[4.0762,5.9039,1.0055],"intensity":1,"diffuse":[1,1,1],"specular":[1,1,1]}],
+"shadowGenerators":[]
+}
